@@ -43,7 +43,7 @@ pip install numpy pandas scikit-learn
 
 
 Clone this repository:
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/SaiSamhitha06/house-price-prediction.git
 cd house-price-prediction
 
 Run the script:
